@@ -7,5 +7,5 @@ Katharina Malin Kiefer
  
 Repository-Inhalt:
 - Finaler Master-Prompt
-- Vollständiger NotebookLM-Chatverlauf
+- Vollständiger NotebookLM-Chatverlauf (docx & pdf)
 - Demonstrationsausgabe des Master-Prompts
