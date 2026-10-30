@@ -9,3 +9,5 @@ Repository-Inhalt:
 - Finaler Master-Prompt
 - Vollständiger NotebookLM-Chatverlauf (docx & pdf)
 - Demonstrationsausgabe des Master-Prompts
+- Hausarbeit KI-Readiness (pdf)
+- Link zum NotebookLM-Projekt
