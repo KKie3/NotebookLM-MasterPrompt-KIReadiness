@@ -10,4 +10,4 @@ Repository-Inhalt:
 - Vollständiger NotebookLM-Chatverlauf (docx & pdf)
 - Demonstrationsausgabe des Master-Prompts
 - Hausarbeit KI-Readiness (pdf)
-- Link zum NotebookLM-Projekt
+- Link zum NotebookLM-Projekt (https://notebook.google.com/notebook/289b258a-984c-4749-b2b9-c05740c183d9)
